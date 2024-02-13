@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "GT Walsheim Pro";
+  src: url("/GTWalsheimPro-Regular.woff") format("woff"),
+    url("/GTWalsheimPro-Regular.woff2") format("woff2");
+}
+@font-face{
+  font-family: 'Clash Display';
+  src: url("/ClashDisplay-Regular.woff")format("woff"),
+  url("/ClashDisplay-Regular.woff2")format("woff2");
+
+}
